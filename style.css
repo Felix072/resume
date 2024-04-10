@@ -1,0 +1,26 @@
+body{
+    background: rgb(32 178 170 / 0.2);
+}
+ p {
+    font-style: italic;
+    font-size: 20px;
+ }
+
+ ol {
+    font-style: italic;
+    font-size: 20px;
+ }
+
+ a {
+    font-style: italic;
+    font-size: 20px;
+ }
+ 
+ img {
+    width: 300px;
+    box-shadow: 4px 4px 0 black;
+ }
+
+ td {
+    padding: 10px 20px 30px;
+ }
