@@ -1,2 +1,2 @@
 # resume
-Пробное резюме для фронтенда.
+https://felix072.github.io/resume/
